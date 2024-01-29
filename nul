@@ -1,0 +1,65 @@
+Name: Flask
+Version: 3.0.0
+Summary: A simple framework for building complex web applications.
+Home-page: 
+Author: 
+Author-email: 
+License: 
+Location: /home/mohit/.local/lib/python3.10/site-packages
+Requires: blinker, click, itsdangerous, Jinja2, Werkzeug
+Required-by: Flask-Limiter
+---
+Name: python-pptx
+Version: 0.6.22
+Summary: Generate and manipulate Open XML PowerPoint (.pptx) files
+Home-page: https://github.com/scanny/python-pptx
+Author: Steve Canny
+Author-email: python-pptx@googlegroups.com
+License: MIT
+Location: /home/mohit/.local/lib/python3.10/site-packages
+Requires: lxml, Pillow, XlsxWriter
+Required-by: 
+---
+Name: Flask-Limiter
+Version: 3.5.0
+Summary: Rate limiting for flask applications
+Home-page: https://flask-limiter.readthedocs.org
+Author: Ali-Akber Saifee
+Author-email: ali@indydevs.org
+License: MIT
+Location: /home/mohit/.local/lib/python3.10/site-packages
+Requires: Flask, limits, ordered-set, rich, typing-extensions
+Required-by: 
+---
+Name: openai
+Version: 1.5.0
+Summary: The official Python library for the openai API
+Home-page: 
+Author: 
+Author-email: OpenAI <support@openai.com>
+License: 
+Location: /home/mohit/.local/lib/python3.10/site-packages
+Requires: anyio, distro, httpx, pydantic, sniffio, tqdm, typing-extensions
+Required-by: 
+---
+Name: regex
+Version: 2023.10.3
+Summary: Alternative regular expression module, to replace re.
+Home-page: https://github.com/mrabarnett/mrab-regex
+Author: Matthew Barnett
+Author-email: regex@mrabarnett.plus.com
+License: Apache Software License
+Location: /home/mohit/.local/lib/python3.10/site-packages
+Requires: 
+Required-by: 
+---
+Name: collection
+Version: 0.1.6
+Summary: Laravel-style collection class that provides an interface for pipeline programming
+Home-page: https://github.com/thenerdscribe/collection
+Author: Ryan Morton
+Author-email: thenerdscribe@gmail.com
+License: MIT
+Location: /home/mohit/.local/lib/python3.10/site-packages
+Requires: 
+Required-by: 
